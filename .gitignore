@@ -1,3 +1,5 @@
 # Build Systems #
 ######################
 node_modules/
+build/**/*.*
+src/**/*.*
